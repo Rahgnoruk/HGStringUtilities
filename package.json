@@ -1,0 +1,22 @@
+{
+    "name": "com.hypergnosys.string-utilities",
+    "version": "1.0.0",
+    "displayName": "HGStringUtilities",
+    "description": "Utilities for string validations and transformations",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGStringUtilities",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGStringUtilities",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGStringUtilities",
+    "keywords": [
+      "HyperGnosys",
+      "String Utilities"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    }
+  }
